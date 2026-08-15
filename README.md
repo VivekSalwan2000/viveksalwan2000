@@ -1,10 +1,10 @@
 <div align="center"> 
 
-<img src="assets/ascii-art.svg" alt="ASCII portrait of Vivek Salwan" width="760"/>
+<img src="assests/ascii-art.svg" alt="ASCII portrait of Vivek Salwan" width="760"/>
 
 <br/>
 
-<img src="assets/info-card.svg" alt="neofetch-style info card" width="640"/>
+<img src="assests/info-card.svg" alt="neofetch-style info card" width="640"/>
 
 <br/><br/>
 
