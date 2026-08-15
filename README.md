@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VivekSalwan2000/viveksalwan2000/main/assets/neofetch.svg" alt="Terminal neofetch card — ASCII portrait of Vivek Salwan alongside a summary of his background, stack, and projects" width="900"/>
+<img src="https://raw.githubusercontent.com/VivekSalwan2000/viveksalwan2000/main/assests/neofetch.svg" alt="Terminal neofetch card — ASCII portrait of Vivek Salwan alongside a summary of his background, stack, and projects" width="900"/>
 
 <h1>Vivek Salwan</h1>
 
