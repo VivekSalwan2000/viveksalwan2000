@@ -1,0 +1,87 @@
+<svg width="640" height="322" viewBox="0 0 640 322" xmlns="http://www.w3.org/2000/svg" font-family="'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, monospace">
+
+  <defs>
+    <filter id="glow2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="0.55" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="titlebar2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e2030"/>
+      <stop offset="1" stop-color="#171827"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="640" height="322" rx="10" fill="#0d0e16" stroke="#2a2d3e" stroke-width="1.5"/>
+  <path d="M0,10 a10,10 0 0 1 10,-10 h620 a10,10 0 0 1 10,10 v18 h-640 z" fill="url(#titlebar2)"/>
+  <circle cx="20" cy="14" r="5.5" fill="#ff5f56"/>
+  <circle cx="38" cy="14" r="5.5" fill="#ffbd2e"/>
+  <circle cx="56" cy="14" r="5.5" fill="#27c93f"/>
+  <text x="320" y="18.5" text-anchor="middle" font-size="11.5" fill="#6f7390">vivek@github ~ neofetch</text>
+
+  <g filter="url(#glow2)">
+
+    <text x="22" y="66" font-size="14" opacity="0">
+      <tspan fill="#9ece6a">vivek@github</tspan><tspan fill="#c0caf5">:~$ </tspan><tspan fill="#7dcfff">neofetch</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+    </text>
+
+    <text x="22" y="88" font-size="14" opacity="0">
+      <tspan fill="#bb9af7">OS............</tspan><tspan fill="#c0caf5"> Recent Computer Science Graduate</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.14s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+    </text>
+
+    <text x="22" y="110" font-size="14" opacity="0">
+      <tspan fill="#bb9af7">Target.........</tspan><tspan fill="#c0caf5"> Software Engineer roles (full-time)</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.28s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+    </text>
+
+    <text x="22" y="132" font-size="14" opacity="0">
+      <tspan fill="#bb9af7">Languages......</tspan><tspan fill="#c0caf5"> Java, JavaScript, HTML/CSS</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+    </text>
+
+    <text x="22" y="154" font-size="14" opacity="0">
+      <tspan fill="#bb9af7">Mobile.........</tspan><tspan fill="#c0caf5"> Android · Retrofit · Room · Gradle</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.56s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+    </text>
+
+    <text x="22" y="176" font-size="14" opacity="0">
+      <tspan fill="#bb9af7">Web/Backend....</tspan><tspan fill="#c0caf5"> Firebase · Node.js</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+    </text>
+
+    <text x="22" y="198" font-size="14" opacity="0">
+      <tspan fill="#bb9af7">Tools..........</tspan><tspan fill="#c0caf5"> Git · GitHub Actions · Maven · JUnit5</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+    </text>
+
+    <text x="22" y="220" font-size="14" opacity="0">
+      <tspan fill="#bb9af7">Projects.......</tspan><tspan fill="#c0caf5"> Festify · NewsHub · VillageWar · +2 more</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.98s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+    </text>
+
+    <text x="22" y="242" font-size="14" opacity="0">
+      <tspan fill="#bb9af7">Contact........</tspan><tspan fill="#c0caf5"> linkedin.com/in/viveksalwan</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+    </text>
+
+  </g>
+
+  <g opacity="0">
+    <rect x="22" y="266" width="16" height="16" rx="3" fill="#1a1b26"/>
+    <rect x="42" y="266" width="16" height="16" rx="3" fill="#f7768e"/>
+    <rect x="62" y="266" width="16" height="16" rx="3" fill="#9ece6a"/>
+    <rect x="82" y="266" width="16" height="16" rx="3" fill="#e0af68"/>
+    <rect x="102" y="266" width="16" height="16" rx="3" fill="#7aa2f7"/>
+    <rect x="122" y="266" width="16" height="16" rx="3" fill="#bb9af7"/>
+    <rect x="142" y="266" width="16" height="16" rx="3" fill="#7dcfff"/>
+    <rect x="162" y="266" width="16" height="16" rx="3" fill="#c0caf5"/>
+    <animate attributeName="opacity" from="0" to="1" begin="1.26s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1"/>
+  </g>
+
+  <text x="22" y="304" font-size="14" fill="#7aa2f7" opacity="0">&gt; render complete_<animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.4s" fill="freeze"/></text>
+
+</svg>
