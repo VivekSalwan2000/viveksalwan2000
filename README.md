@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="assets/ascii-art.svg" alt="ASCII portrait of Vivek Salwan" width="760"/>
 
